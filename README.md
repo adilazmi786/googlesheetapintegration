@@ -1,7 +1,5 @@
 # Google Sheet and Google Drive Api Integration with spring boot.
 
-Google Sheet API Integration with spring boot
-
 This repository contains the google sheet and google drive integration with spring boot.
 
 To do this we need to cover few steps
